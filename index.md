@@ -12,3 +12,8 @@ For the Quarter 2 project, I would be interested in vegetation detection with re
 
 **3. What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**
 
+Currently, our project takes in tagged images from all 12 members of the subject domain and will use them to train a model using DETR for oject detection. A potential change I would make is to add more variation in the training data in terms of location. This may allow for more detail in the training that would allow for a better generalization. However, givne the time constraints, the feasability may not be realistic but should still produce a well-working detection model.
+
+**4. What other techniques would you be interested in using in your project?**
+
+I would be interested in using more computer vision in my final project. This can be through the image detection system we train as our quarter 1 project or the vegetation detection that I am interested in pursuing for the quarter 2 project. Furthermore, the use od satellite imagery could be used for a top-down view on the specific electrical infrastructure being explored.
